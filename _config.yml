@@ -1,7 +1,7 @@
 name: i4think
 favicon: null
-layout_spectrum: 0.26515502599067986
-typography_spectrum: 0.9958072667941451
+layout_spectrum: 0.25059
+typography_spectrum: 0.75319
 cta:
   domain: null
   bucket: null
@@ -23,6 +23,6 @@ color:
     - '#3B28CC'
   brandStrength: 0.5777035914361477
   lightness: 0.9334380587097257
-  saturation: 0.5540647730231285
-  rhythmicContrast: 0.9240821786224842
+  saturation: 0.5625
+  rhythmicContrast: 1
 purpose: []
